@@ -2,6 +2,7 @@
 Eclipse calculator programs
 
 # In common for both:
+Both programs assume zero orbital eccentricity for both the planet and the moon, and also a spherical planet for simplification.  
 All times, unless otherwise mentioned, is given in the unit of days.  
 Day 0 represents a specific northern vernal equinox, that is assumed to take place at midnight.  
 
