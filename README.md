@@ -34,12 +34,12 @@ https://py.processing.org/tutorials/gettingstarted/ is the tutorial for getting 
 "sketch.properties" is needed for the .pyde file to run.
 
 **How to use:**
-Copy all the variables from "eclipse_date_predictor.py".  
+Copy all the variable values from "eclipse_date_predictor.py".  
 One extra variable is required, earth_hours_in_day, and it should be set according to ur world.  
 The options showGrid and longitudeCorrect can be turned on or off.  
 The resolution of the image can be changed.  
 *Read the comments*  
-To generate a map for a specific eclipse, select a NM value generated from "eclipse_date_predictor.py", and put it as the value as the variable "time" on line 2.  
+To generate a map for a specific eclipse, select a NM value for a solar eclipse generated from "eclipse_date_predictor.py", and put it as the value as the variable "time" on line 2.  
 Then you can run the program, and it will automatically save a file called "X.png" where X is the time value entered into the folder.  
 
 The labeled diagram for the map generated can be found here:   
