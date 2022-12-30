@@ -3,7 +3,7 @@ Eclipse calculator programs
 
 # In common for both:
 All times, unless otherwise mentioned, is given in the unit of days.
-Day 0 represents a specific northern vernal equinox. (That must occur at midnight)
+Day 0 represents a specific northern vernal equinox, that is assumed to take place at midnight.
 
 # "eclipse_date_predictor.py"
 "eclipse_date_predictor.py" is a python file.
