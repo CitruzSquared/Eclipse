@@ -33,7 +33,7 @@ https://py.processing.org/tutorials/gettingstarted/ is the tutorial for getting 
 "sketch.properties" is needed for the .pyde file to run.
 
 **How to use:**
-Copy all the variables from "eclipse_date_predictor.py"
+Copy all the variables from "eclipse_date_predictor.py".
 One extra variable is required, earth_hours_in_day, and it should be set according to ur world.
 The options showGrid and longitudeCorrect can be turned on or off.
 The resolution of the image can be changed.
